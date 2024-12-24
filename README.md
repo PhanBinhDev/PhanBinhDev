@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **binhphan.dev@gmail.com**
 
-- 📄 Know about my experiences [cv.binh-dev.io.vn](cv.binh-dev.io.vn)
+- 📄 Know about my experiences [cv.binh-dev.io.vn](https://cv.binh-dev.io.vn)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
